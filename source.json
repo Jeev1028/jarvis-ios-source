@@ -8,16 +8,16 @@
       "developerName": "Jeevin",
       "subtitle": "Your PC's Jarvis, in your pocket",
       "localizedDescription": "Talk to the Jarvis running on your PC, from anywhere over Tailscale.",
-      "version": "1.0",
+      "version": "1.1",
       "versionDate": "2026-11-18",
       "downloadURL": "https://github.com/Jeev1028/jarvis-ios-source/raw/main/Jarvis.ipa",
-      "size": 86166,
+      "size": 80506,
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.1",
           "date": "2026-11-18",
           "downloadURL": "https://github.com/Jeev1028/jarvis-ios-source/raw/main/Jarvis.ipa",
-          "size": 86166
+          "size": 80506
         }
       ]
     }
